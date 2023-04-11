@@ -1,0 +1,202 @@
+{
+  "client": {
+    "token": "MTA1MDQxMTQyODc2ODY1MzM3Mg.GfyqE4.yXWnda4YRM6Ic7hcYvezamRsVYfy0Wrvrv_F44",
+    "fivem": false
+  },
+  "embeds_color": {
+    "embed_primary": "#ff00ff",
+    "embed_invisible": "#2f3136",
+    "embed_success": "#00ff00",
+    "embed_error": "#ff0000"
+  },
+  "ticket": {
+    "category_id": "1081994230521663609",
+    "support_role": "1042923090730033228",
+    "channel_logs": "1080636940266786896",
+    "category_call_id": "1081994729874542664",
+
+    "category_id1": "1081994230521663609",
+    "support_role1": "1043638556293337280",
+    "channel_logs1": "1080636940266786896",
+    "category_call_id1": "1081994729874542664",
+
+    "category_id2": "1081994230521663609",
+    "support_role2": "1091716871532843158",
+    "channel_logs2": "1080636940266786896",
+    "category_call_id2": "1081994729874542664",
+
+    "category_id3": "1081994230521663609",
+    "support_role3": "1043731761227649094",
+    "channel_logs3": "1080636940266786896",
+    "category_call_id3": "1081994729874542664"
+  },
+  "sales": {
+    "pix": "winestore.dev@gmail.com",
+    "qrcode": "https://cdn.discordapp.com/attachments/1043484447841996851/1082300879815852042/mercadopago_pixQr.png",
+    "name": "Adriano D. Camargo"
+  },
+  "imagens": {
+    "ticket_footer": "https://cdn.discordapp.com/attachments/1043484447841996851/1077940146487443576/standard.gif",
+    "imagem_perfil": "https://cdn.discordapp.com/attachments/1043484447841996851/1046044606397169685/Design_sem_nome.gif",
+    "logo_padm": "https://media.discordapp.net/attachments/1043484447841996851/1082413497784205413/BG4.png",
+    "logo_ticket": "https://cdn.discordapp.com/attachments/1043484447841996851/1085709009996222614/standard.gif"
+  },
+  "geral": {
+    "nome_servidor": "Wine Store 🍷",
+    "id_servidor": "632345520052109312",
+    "canal_renomear": "1086426309233741896",
+    "add_cargo": "1042923090730033224",
+    "canal_backup": "1080228280671670272",
+    "canal_entrada": "1084634408423788634",
+    "canal_saida": "1084634408423788634",
+    "canal_logs": "1082013831309557871",
+    "canal_banidos": "1082013831309557871",
+    "cliente_responsavel": "443384486076481536",
+    "cargo_enviar_link": "1042923090730033229",
+    "cargo_dono": "1042923090730033228"
+  },
+  "wl": {
+    "logo": "https://cdn.discordapp.com/attachments/1043484447841996851/1082395017320075354/standard.gif",
+    "canal_regras": "https://discord.com/channels/1042923090730033223/1082373406789484635",
+    "canal_update": "https://discord.com/channels/1042923090730033223/1082373406789484635",
+    "canal_wl": "https://discord.com/channels/1042923090730033223/1082373406789484635",
+    "link_connect": "https://cfx.re/join/vd95yr",
+    "link_loja": "https://discord.com/channels/1042923090730033223/1082373406789484635",
+    "link_ticket": "https://discord.com/channels/1042923090730033223/1042923092172865558",
+    "add_whitelist": "1082373953730912316",
+    "del_whitelist": "1082373757361995807",
+    "canal_aprovado": "1084118895918588094",
+    "canal_reprovado": "1084118918815301712",
+    "canal_entrevista": "1084118987752874065",
+    "categoria_wl": "1084118833419276329",
+    "logs_staff": "1084119062008832030",
+    "canal_connect": "1082365477671665665",
+    "min_points": 8,
+    "nome_tabela": "vrp_account",
+    "nome_tabela_identidade": "vrp_user_identities",
+    "nome_tabela_ids": "vrp_users",
+    "nome_tabela_dinheiro": "vrp_user_moneys",
+    "nome_tabela_carros": "vrp_user_vehicles",
+    "nome_tabela_casas": "vrp_homes_permissions",
+    "nome_tabela_data": "vrp_user_data",
+    "blacklist": "blackList",
+    "ip_server": "131.196.199.181",
+    "porta_server": "30120"
+  },
+  "mysql": {
+    "host": "localhost",
+    "user": "root",
+    "password": "",
+    "database": "vrp"
+  },
+  "questions": [
+    {
+      "name": "O que é roleplay?",
+      "alternatives": [
+        "É simular a vida real",
+        "É não cometar suicidio",
+        "Se matar enquanto joga!"
+      ],
+      "reply": 1
+    },
+    {
+      "name": "O que é VDM",
+      "alternatives": [
+        "Pular de um lugar alto",
+        "Usar um carro como arma",
+        "Matar alguém sem motivo"
+      ],
+      "reply": 2
+    },
+    {
+      "name": "Oque é Power Gamer",
+      "alternatives": [
+        "Fazer RP muito pessado",
+        "Ter poder sobre o jogo",
+        "Abusar da fisica do jogo"
+      ],
+      "reply": 3
+    },
+    {
+      "name": "O que é RDM?",
+      "alternatives": [
+        "Fazer RP muito pessado",
+        "Usar o carro como uma arma ",
+        "Mata o outro sem motivo"
+      ],
+      "reply": 3
+    },
+    {
+      "name": "O que é MetaGaming?",
+      "alternatives": [
+        "Não reportar um bug",
+        "Aproveitar de informações externas e levar pro jogo ",
+        "Matar alguém com um bastão"
+      ],
+      "reply": 2
+    },
+    {
+      "name": "O que é Combat-Logging?",
+      "alternatives": [
+        "Ver se teve ação atráves de um chat",
+        "Deslogar em meio de uma ação e não voltar",
+        "Cair da ação e voltar em seguida"
+      ],
+      "reply": 2
+    },
+    {
+      "name": "O que é DarkRP?",
+      "alternatives": [
+        "Dark rp é fazer rp de assédio, estupro, racista etc",
+        "Bater gravemente em uma pessoa",
+        "É ficar irritando uma pessoa"
+      ],
+      "reply": 1
+    },
+    {
+      "name": "O que é uma Safezone?",
+      "alternatives": [
+        "São lugares em que os Policia não ficam",
+        "Uma área com PvP liberado",
+        "São lugares em que não se pode roubar ou matar"
+      ],
+      "reply": 3
+    },
+    {
+      "name": "O que é Forçar RP?",
+      "alternatives": [
+        "É assaltar pessoas depois das 10 horas",
+        "É ficar irritando uma pessoa",
+        "Consiste em incentivar para que inicie uma ação"
+      ],
+      "reply": 1
+    },
+    {
+      "name": "O que é Anti RP?",
+      "alternatives": [
+        "É você fazer rp de bandido",
+        "É você sair do seu personagem",
+        "É você cometer infrações"
+      ],
+      "reply": 2
+    },
+    {
+      "name": "O que é AMOR A VIDA?",
+      "alternatives": [
+        "É pular de uma ponte para evitar ser pego",
+        "É valorizar a sua vida como ela fosse única",
+        "É ter amor próprio"
+      ],
+      "reply": 2
+    },
+    {
+      "name": "O que fazer se você ver alguém abusando de um bug?",
+      "alternatives": [
+        "Não fazer nada pois não sou eu que estou abusando",
+        "Chamar algum adm",
+        "Ir lá e abusar junto com o cara"
+      ],
+      "reply": 2
+    }
+  ]
+}

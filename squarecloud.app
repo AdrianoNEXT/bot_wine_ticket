@@ -1,0 +1,5 @@
+DISPLAY_NAME=Wine Ticket
+DESCRIPTION=Bot Loja.
+MAIN=index.js
+MEMORY=100
+VERSION=recommended
