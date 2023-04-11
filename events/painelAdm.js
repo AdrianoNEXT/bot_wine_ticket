@@ -2019,7 +2019,7 @@ if (interaction.isModalSubmit() && interaction.customId === "modal_info_remgp") 
         .setCustomId("client_mens")
         .setLabel("Mencionar um cargo?")
         .setRequired(false)
-        .setMaxLength(50)
+        .setMaxLength(100)
         .setStyle(1)
         .setPlaceholder("ID DO CARGO");
 
